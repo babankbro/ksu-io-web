@@ -1,1 +1,1 @@
-{ "G0-C1":[{"heading": 270,"description": "Exit","pano": "F3-D1"},{"heading": 0,"description": "Exit","pano": "G0-C3"}], "F3-D1":[{"heading": 270,"description": "Exit","pano": "F1-C1"},{"heading": 90,"description": "Exit","pano": "G0-C1"}]}
+{"G0-C1":[{"heading":270,"description":"Exit","pano":"F3-D1"},{"heading":0,"description":"Exit","pano":"G0-C3"}],"F3-D1":[{"heading":270,"description":"Exit","pano":"F1-C1"},{"heading":90,"description":"Exit","pano":"G0-C1"}],"G0-C3":[{"heading":92.51005016521958,"description":"Exit","pano":"G0-D0"}]}
