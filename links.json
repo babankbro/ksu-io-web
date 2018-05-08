@@ -1,13 +1,13 @@
-[{ 
+{ 
        'G0-C1':[{
-                heading: 270,
-                description: 'Exit',
-                pano: 'F3-D1'
+                'heading': 270,
+                'description': 'Exit',
+                'pano': 'F3-D1'
             },
             {
-                heading: 0,
-                description: 'Exit',
-                pano: 'G0-C3'
+                'heading': 0,
+                'description': 'Exit',
+                'pano': 'G0-C3'
             }]
             
-  }]
+  }
