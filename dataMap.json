@@ -9991,19 +9991,20 @@
   ],
   "specialSearchTypeLookup": {
     "ST1": "ดาว",
-    "ดาว": "ST1",
     "ST2": "วัยรุ่น",
-    "วัยรุ่น": "ST2",
     "ST3": "ผู้ชาย",
-    "ผู้ชาย": "ST3",
     "ST4": "ผู้หญิง",
-    "ผู้หญิง": "ST4",
     "ST5": "เด็ก",
+    "ST6": "ผู้สูงวัย"
+  },
+  "namespecialSearchTypeLookup": {
+    "ดาว": "ST1",
+    "วัยรุ่น": "ST2",
+    "ผู้ชาย": "ST3",
+    "ผู้หญิง": "ST4",
     "เด็ก": "ST5",
-    "ST6": "ผู้สูงวัย",
     "ผู้สูงวัย": "ST6"
   },
-  "namespecialSearchTypeLookup": {},
   "specialSearchFactors": {
     "ST1": {
       "total": 14,
