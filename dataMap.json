@@ -9925,9 +9925,13 @@
         "T1",
         "T2"
       ],
-      "typeList": [
+      "typeTravelList": [
         "TT1",
         "TT2"
+      ],
+      "specialSearchType": [
+        "ST1",
+        "ST2"
       ],
       "personRange": {
         "total": 5,
@@ -9961,7 +9965,11 @@
         }
       }
     },
-    "softTime": 120
+    "softTime": 120,
+    "fdistance": 0.2,
+    "frating": 1,
+    "ftravelType": 0.5,
+    "fspecialSearch": 0.5
   },
   "ratingKeys": [
     "Average Star",
