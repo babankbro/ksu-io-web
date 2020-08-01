@@ -9901,9 +9901,9 @@
     "เกษตร": "TT5"
   },
   "parameter": {
-    "MaxIteration": 100,
+    "MaxIteration": 500,
     "StartTemp": 100,
-    "alpha": 0.999,
+    "alpha": 0.99,
     "searchInfo": {
       "startInfo": {
         "ID": "E1",
@@ -9922,17 +9922,12 @@
         "Time": 780
       },
       "wishList": [
-        "T1",
         "T2"
       ],
       "typeTravelList": [
-        "TT1",
         "TT2"
       ],
-      "specialSearchType": [
-        "ST1",
-        "ST2"
-      ],
+      "specialSearchType": [],
       "personRange": {
         "total": 5,
         "age1-10": {
@@ -9965,7 +9960,7 @@
         }
       }
     },
-    "softTime": 120,
+    "softTime": 60,
     "fdistance": 0.2,
     "frating": 1,
     "ftravelType": 0.5,
@@ -10193,6 +10188,38 @@
       }
     }
   },
+  "alltravelIndexs": [
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+  ],
   "travelNodes": [
     {
       "name": "เขตรักษาพันธุ์สัตว์ป่าดงใหญ่",
