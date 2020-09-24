@@ -63,7 +63,8 @@
       "T27",
       "T28",
       "T29",
-      "T30"
+      "T30",
+      null
     ],
     "Name": [
       "สนามบิน",
@@ -128,7 +129,8 @@
       "สวนศิวะ 12",
       "แหล่งท่องเที่ยวเชิงเกษตร บ้านโคกเมือง",
       "อุทยานประวัติศาสตร์พนมรุ้ง",
-      "อุทยานดอกไม้ เพลาเพลิน"
+      "อุทยานดอกไม้ เพลาเพลิน",
+      null
     ],
     "Location": [
       "บุรีรัมย์",
@@ -193,7 +195,8 @@
       "อ.เมือง",
       "อ.ประโคนชัย",
       "อ.เฉลิมพระเกียรติ",
-      "อ.คูเมือง"
+      "อ.คูเมือง",
+      null
     ],
     "Place Type": [
       "เข้า-ออก",
@@ -258,7 +261,8 @@
       "ที่ท่องเที่ยว",
       "ที่ท่องเที่ยว",
       "ที่ท่องเที่ยว",
-      "ที่ท่องเที่ยว"
+      "ที่ท่องเที่ยว",
+      null
     ],
     "Travel Type": [
       null,
@@ -323,7 +327,8 @@
       "นันทนาการ",
       "วัฒนธรรม",
       "ประวัติศาสตร์",
-      "นันทนาการ"
+      "นันทนาการ",
+      null
     ],
     "Lat": [
       15.228992,
@@ -388,7 +393,8 @@
       14.966788,
       14.530151,
       14.532218,
-      15.283722
+      15.283722,
+      null
     ],
     "Lng": [
       103.246798,
@@ -453,7 +459,8 @@
       103.090878,
       103.010062,
       102.9424,
-      103.005122
+      103.005122,
+      null
     ],
     "Open Time": [
       null,
@@ -518,7 +525,8 @@
       540,
       510,
       360,
-      540
+      540,
+      null
     ],
     "Closed Time": [
       null,
@@ -583,7 +591,8 @@
       1320,
       960,
       1080,
-      1080
+      1080,
+      null
     ],
     "Spent Duration": [
       null,
@@ -619,36 +628,37 @@
       null,
       null,
       null,
-      90,
-      90,
-      90,
-      90,
-      180,
-      120,
-      90,
-      90,
-      90,
-      90,
-      90,
-      90,
-      60,
-      60,
-      60,
-      60,
-      60,
-      60,
-      60,
-      60,
-      60,
-      60,
-      120,
-      120,
-      120,
-      180,
-      90,
-      120,
       150,
-      180
+      150,
+      150,
+      150,
+      240,
+      180,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120,
+      180,
+      180,
+      180,
+      240,
+      150,
+      180,
+      210,
+      240,
+      null
     ],
     "Average Star": [
       null,
@@ -713,7 +723,8 @@
       3.662560356310357,
       3.946856714713858,
       3.9352368985181485,
-      3.450187543937544
+      3.450187543937544,
+      null
     ],
     "Fage25": [
       null,
@@ -778,7 +789,8 @@
       3.6954545454545453,
       4.1,
       3.925,
-      3.522727272727273
+      3.522727272727273,
+      103.87516532574566
     ],
     "Fage25-35": [
       null,
@@ -843,7 +855,8 @@
       3.6375,
       4.0125,
       3.868181818181818,
-      3.4583333333333335
+      3.4583333333333335,
+      103.49584096459097
     ],
     "Fage36-45": [
       null,
@@ -908,7 +921,8 @@
       3.662560356310356,
       3.8428571428571425,
       3.85,
-      3.4375
+      3.4375,
+      102.9980176982409
     ],
     "Fage46-60": [
       null,
@@ -973,7 +987,8 @@
       3.7,
       3.894230769230769,
       3.9375,
-      3.4285714285714284
+      3.4285714285714284,
+      103.1587645390324
     ],
     "Fage61": [
       null,
@@ -1038,7 +1053,8 @@
       3.6625603563103564,
       3.9468567147138574,
       3.9352368985181485,
-      3.4501875439375436
+      3.4501875439375436,
+      104.62768491043786
     ],
     "Mage25": [
       null,
@@ -1103,7 +1119,8 @@
       3.6153846153846154,
       3.8875000000000006,
       3.65,
-      3.4270833333333335
+      3.4270833333333335,
+      102.61331006956007
     ],
     "Mage25-35": [
       null,
@@ -1168,7 +1185,8 @@
       3.6020833333333333,
       4.05,
       4.166666666666667,
-      3.25
+      3.25,
+      104.17960770710772
     ],
     "Mage36-45": [
       null,
@@ -1233,7 +1251,8 @@
       3.6999999999999997,
       3.840909090909091,
       4.013392857142858,
-      3.5274725274725274
+      3.5274725274725274,
+      104.69822304018734
     ],
     "Mage46-60": [
       null,
@@ -1298,7 +1317,8 @@
       3.6875,
       3.9468567147138574,
       4.071153846153846,
-      3.5
+      3.5,
+      105.1260238149747
     ],
     "Mage61": [
       null,
@@ -1363,7 +1383,8 @@
       3.6625603563103564,
       3.946856714713858,
       3.9352368985181485,
-      3.5
+      3.5,
+      104.00960260868246
     ]
   },
   "distanceTable": [
@@ -9623,7 +9644,8 @@
     "T27": 59,
     "T28": 60,
     "T29": 61,
-    "T30": 62
+    "T30": 62,
+    "undefined": 63
   },
   "travelTypeLookup": {
     "TT1": "ธรรมชาติ",
@@ -9889,7 +9911,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T1",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 510,
       "closedTime": 990,
       "travelTypeID": "TT1",
@@ -9956,7 +9978,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T2",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT1",
@@ -10023,7 +10045,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T3",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT1",
@@ -10090,7 +10112,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T4",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1080,
       "travelTypeID": "TT1",
@@ -10157,7 +10179,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T5",
-      "spentDuration": 180,
+      "spentDuration": 240,
       "openTime": 510,
       "closedTime": 1320,
       "travelTypeID": "TT1",
@@ -10224,7 +10246,7 @@
       "travelType": "วัฒนธรรม",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T6",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 960,
       "closedTime": 1320,
       "travelTypeID": "TT2",
@@ -10291,7 +10313,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T7",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 600,
       "closedTime": 1320,
       "travelTypeID": "TT3",
@@ -10358,7 +10380,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T8",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10425,7 +10447,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T9",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10492,7 +10514,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T10",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10559,7 +10581,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T11",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10626,7 +10648,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T12",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10693,7 +10715,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T13",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10760,7 +10782,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T14",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10827,7 +10849,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T15",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -10894,7 +10916,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T16",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1080,
       "travelTypeID": "TT4",
@@ -10961,7 +10983,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T17",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 360,
       "closedTime": 1200,
       "travelTypeID": "TT4",
@@ -11028,7 +11050,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T18",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -11095,7 +11117,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T19",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 360,
       "closedTime": 1080,
       "travelTypeID": "TT4",
@@ -11162,7 +11184,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T20",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -11229,7 +11251,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T21",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 360,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -11296,7 +11318,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T22",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 510,
       "closedTime": 990,
       "travelTypeID": "TT3",
@@ -11363,7 +11385,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T23",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 540,
       "closedTime": 1020,
       "travelTypeID": "TT3",
@@ -11430,7 +11452,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T24",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 600,
       "closedTime": 1140,
       "travelTypeID": "TT3",
@@ -11497,7 +11519,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T25",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 540,
       "closedTime": 960,
       "travelTypeID": "TT3",
@@ -11564,7 +11586,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T26",
-      "spentDuration": 180,
+      "spentDuration": 240,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT3",
@@ -11631,7 +11653,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T27",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 540,
       "closedTime": 1320,
       "travelTypeID": "TT3",
@@ -11698,7 +11720,7 @@
       "travelType": "วัฒนธรรม",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T28",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 510,
       "closedTime": 960,
       "travelTypeID": "TT2",
@@ -11765,7 +11787,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T29",
-      "spentDuration": 150,
+      "spentDuration": 210,
       "openTime": 360,
       "closedTime": 1080,
       "travelTypeID": "TT4",
@@ -11832,7 +11854,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T30",
-      "spentDuration": 180,
+      "spentDuration": 240,
       "openTime": 540,
       "closedTime": 1080,
       "travelTypeID": "TT3",
@@ -12763,7 +12785,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T1",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 510,
       "closedTime": 990,
       "travelTypeID": "TT1",
@@ -12830,7 +12852,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T2",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT1",
@@ -12897,7 +12919,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T3",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT1",
@@ -12964,7 +12986,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T4",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1080,
       "travelTypeID": "TT1",
@@ -13031,7 +13053,7 @@
       "travelType": "ธรรมชาติ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T5",
-      "spentDuration": 180,
+      "spentDuration": 240,
       "openTime": 510,
       "closedTime": 1320,
       "travelTypeID": "TT1",
@@ -13098,7 +13120,7 @@
       "travelType": "วัฒนธรรม",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T6",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 960,
       "closedTime": 1320,
       "travelTypeID": "TT2",
@@ -13165,7 +13187,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T7",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 600,
       "closedTime": 1320,
       "travelTypeID": "TT3",
@@ -13232,7 +13254,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T8",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13299,7 +13321,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T9",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13366,7 +13388,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T10",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13433,7 +13455,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T11",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13500,7 +13522,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T12",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13567,7 +13589,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T13",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13634,7 +13656,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T14",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13701,7 +13723,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T15",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13768,7 +13790,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T16",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1080,
       "travelTypeID": "TT4",
@@ -13835,7 +13857,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T17",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 360,
       "closedTime": 1200,
       "travelTypeID": "TT4",
@@ -13902,7 +13924,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T18",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -13969,7 +13991,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T19",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 360,
       "closedTime": 1080,
       "travelTypeID": "TT4",
@@ -14036,7 +14058,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T20",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -14103,7 +14125,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T21",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 360,
       "closedTime": 1020,
       "travelTypeID": "TT4",
@@ -14170,7 +14192,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T22",
-      "spentDuration": 60,
+      "spentDuration": 120,
       "openTime": 510,
       "closedTime": 990,
       "travelTypeID": "TT3",
@@ -14237,7 +14259,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T23",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 540,
       "closedTime": 1020,
       "travelTypeID": "TT3",
@@ -14304,7 +14326,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T24",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 600,
       "closedTime": 1140,
       "travelTypeID": "TT3",
@@ -14371,7 +14393,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T25",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 540,
       "closedTime": 960,
       "travelTypeID": "TT3",
@@ -14438,7 +14460,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T26",
-      "spentDuration": 180,
+      "spentDuration": 240,
       "openTime": 480,
       "closedTime": 1020,
       "travelTypeID": "TT3",
@@ -14505,7 +14527,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T27",
-      "spentDuration": 90,
+      "spentDuration": 150,
       "openTime": 540,
       "closedTime": 1320,
       "travelTypeID": "TT3",
@@ -14572,7 +14594,7 @@
       "travelType": "วัฒนธรรม",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T28",
-      "spentDuration": 120,
+      "spentDuration": 180,
       "openTime": 510,
       "closedTime": 960,
       "travelTypeID": "TT2",
@@ -14639,7 +14661,7 @@
       "travelType": "ประวัติศาสตร์",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T29",
-      "spentDuration": 150,
+      "spentDuration": 210,
       "openTime": 360,
       "closedTime": 1080,
       "travelTypeID": "TT4",
@@ -14706,7 +14728,7 @@
       "travelType": "นันทนาการ",
       "placeType": "ที่ท่องเที่ยว",
       "ID": "T30",
-      "spentDuration": 180,
+      "spentDuration": 240,
       "openTime": 540,
       "closedTime": 1080,
       "travelTypeID": "TT3",
@@ -14763,6 +14785,55 @@
         }
       ],
       "index": 62
+    },
+    {
+      "latlnt": {},
+      "travelTypeID": "None",
+      "ratingLookup": {
+        "age25": {
+          "F": 103.87516532574566,
+          "M": 102.61331006956007
+        },
+        "age25-35": {
+          "F": 103.49584096459097,
+          "M": 104.17960770710772
+        },
+        "age36-45": {
+          "F": 102.9980176982409,
+          "M": 104.69822304018734
+        },
+        "age46-60": {
+          "F": 103.1587645390324,
+          "M": 105.1260238149747
+        },
+        "age61": {
+          "F": 104.62768491043786,
+          "M": 104.00960260868246
+        }
+      },
+      "ratingArray": [
+        {
+          "F": 103.87516532574566,
+          "M": 102.61331006956007
+        },
+        {
+          "F": 103.49584096459097,
+          "M": 104.17960770710772
+        },
+        {
+          "F": 102.9980176982409,
+          "M": 104.69822304018734
+        },
+        {
+          "F": 103.1587645390324,
+          "M": 105.1260238149747
+        },
+        {
+          "F": 104.62768491043786,
+          "M": 104.00960260868246
+        }
+      ],
+      "index": 63
     }
   ]
 }
